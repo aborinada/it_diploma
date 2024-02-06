@@ -1,8 +1,8 @@
 # it_diploma
 
 
-[Методичка](https://docs.google.com/document/d/1LYeXQX3_XT8BTSMCpcUhIqkFOlUVtoMT1rstrrlsPao/edit) </br> 
-[Курсовая](https://docs.google.com/document/d/12XYPeP2ljz5eRPSKCHywFJz8vnwt0sFddJOiInWV1_w/edit)
+[Методичка](https://docs.google.com/document/d/11pAnCdZRabWWhkzRdPkHHowOoCLxUdNnF04rZ-G7-lo/edit) </br> 
+[Курсовая](https://docs.google.com/document/d/1LfnYkHWU8RQhAyLv_91lsKCqpE-xBZitiCNPknRliyw/edit)
 
 
 
